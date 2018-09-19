@@ -9,67 +9,7 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.1.2.RELEASE/1d14c6a0807312138c85e0ec526df190e6dfb0ec/spring-test-4.1.2.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.1.2.RELEASE/cdaa88735b66832be984713be024eba2150d5ec3/spring-test-4.1.2.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.9.4.RELEASE/75153f1c60fbad77c23b967e450a633a3b52edd4/spring-data-jpa-1.9.4.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.9.4.RELEASE/80b83510e67aa085b7d91d2d096d90133ec995de/spring-data-jpa-1.9.4.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.8.4.RELEASE/21795681ae51522b8a54547ec9380742b54446ec/spring-data-mongodb-1.8.4.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.8.4.RELEASE/65853c0bfb352a79011cf301c6b52d6cf164db9/spring-data-mongodb-1.8.4.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.4.RELEASE/1080d362b6e9234ac46f008e38eb119609e34c91/spring-data-commons-1.11.4.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.4.RELEASE/c2b1fd4dbf7dff772d6124bb35892759e8bf088e/spring-data-commons-1.11.4.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.0.RELEASE/e7159959bff402d762c94c245bdabd254990b74f/spring-web-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.0.RELEASE/b21f7dfe6145ebe1ce6cd5d8853cceacf42e3380/spring-web-4.2.0.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.0.RELEASE/509a011d16523f8b4c840783ea621ef478f95a68/spring-context-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.0.RELEASE/4c935619d8a74bdc4b11be71411ad6d629b3c2df/spring-context-4.2.0.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.1.9.RELEASE/d0ec374812e0127ba1a44cbf27f99c813cc28128/spring-orm-4.1.9.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.1.9.RELEASE/d681430cfd81d6cd0e3c1cd5b6e08a1e4dd338ab/spring-orm-4.1.9.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.0.RELEASE/e36e1b61e777d1b45e396fc2e69a13708cbef817/spring-aop-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.0.RELEASE/59d0f2975b818859872211e219b0141d12843547/spring-aop-4.2.0.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.9.RELEASE/571f5e0c0dd528dc74e0172e41a25d0e25082b67/spring-jdbc-4.1.9.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.9.RELEASE/fa3e6e85ffe54d386371118d8aaac3217ae742e5/spring-jdbc-4.1.9.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.9.RELEASE/9ec13a13dc78f5664cc7958a952a73ee8e76af4f/spring-tx-4.1.9.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.9.RELEASE/2b18a75d2d1652d54355a56484cfc29bbde39750/spring-tx-4.1.9.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.0.RELEASE/4e2a13469a30fac0efed7c4a5b3217afcf9b5433/spring-beans-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.0.RELEASE/3f3b38ccca8b5fa19a667e3c54c410ee404a39f0/spring-beans-4.2.0.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.0.RELEASE/7c6fbbc85356c16189ab55dd45ce8b661fb256ad/spring-expression-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.0.RELEASE/d578e5f975bd92de55a75e0865c0a0aca75e1b87/spring-expression-4.2.0.RELEASE.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.0.RELEASE/699226901b379075311a66102aaa8e8f6b34640c/spring-core-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.0.RELEASE/9c807aff0032dea05dcc17a477f2442139671ed7/spring-core-4.2.0.RELEASE.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
@@ -104,17 +44,52 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.8.4.RELEASE/21795681ae51522b8a54547ec9380742b54446ec/spring-data-mongodb-1.8.4.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.8.4.RELEASE/65853c0bfb352a79011cf301c6b52d6cf164db9/spring-data-mongodb-1.8.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.9.RELEASE/9ec13a13dc78f5664cc7958a952a73ee8e76af4f/spring-tx-4.1.9.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.9.RELEASE/2b18a75d2d1652d54355a56484cfc29bbde39750/spring-tx-4.1.9.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.4.RELEASE/1080d362b6e9234ac46f008e38eb119609e34c91/spring-data-commons-1.11.4.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.4.RELEASE/c2b1fd4dbf7dff772d6124bb35892759e8bf088e/spring-data-commons-1.11.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.0.RELEASE/509a011d16523f8b4c840783ea621ef478f95a68/spring-context-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.0.RELEASE/4c935619d8a74bdc4b11be71411ad6d629b3c2df/spring-context-4.2.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.0.RELEASE/e36e1b61e777d1b45e396fc2e69a13708cbef817/spring-aop-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.0.RELEASE/59d0f2975b818859872211e219b0141d12843547/spring-aop-4.2.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.0.RELEASE/4e2a13469a30fac0efed7c4a5b3217afcf9b5433/spring-beans-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.0.RELEASE/3f3b38ccca8b5fa19a667e3c54c410ee404a39f0/spring-beans-4.2.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.0.RELEASE/7c6fbbc85356c16189ab55dd45ce8b661fb256ad/spring-expression-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.0.RELEASE/d578e5f975bd92de55a75e0865c0a0aca75e1b87/spring-expression-4.2.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.0.RELEASE/699226901b379075311a66102aaa8e8f6b34640c/spring-core-4.2.0.RELEASE-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.0.RELEASE/9c807aff0032dea05dcc17a477f2442139671ed7/spring-core-4.2.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.7/8a13905834c9fbaef243d7e841160729a88bf616/aspectjrt-1.8.7-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.7/c4b70e763194d274477da4da9b05ea913e877268/aspectjrt-1.8.7.jar">
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.13.0/3a86ea66cd451ac9e52dd6a8032c53bfaa0ebcc2/mongo-java-driver-2.13.0-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.13.0/6b19c1276871001fa85684475db7e4c538046b52/mongo-java-driver-2.13.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
@@ -129,7 +104,7 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.13.0/3a86ea66cd451ac9e52dd6a8032c53bfaa0ebcc2/mongo-java-driver-2.13.0-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.13.0/6b19c1276871001fa85684475db7e4c538046b52/mongo-java-driver-2.13.0.jar">
+	<classpathentry sourcepath="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="/home/fm-lt-62/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
