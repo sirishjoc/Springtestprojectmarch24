@@ -45,6 +45,7 @@ dependencies {
 	//compile 'javax.mail:mail:1.4.7'
 	
 	compile group: 'commons-logging', name: 'commons-logging', version: '1.2'
+	compile 'org.springframework.data:spring-data-mongodb:1.8.4.RELEASE'
 	
 	//compile 'org.mongodb:mongo-java-driver:2.13.0'
 	//compile group: 'org.mongodb', name: 'mongo-java-driver', version: '3.2.1'	

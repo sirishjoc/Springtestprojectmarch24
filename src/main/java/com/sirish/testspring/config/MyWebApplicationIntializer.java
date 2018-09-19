@@ -17,7 +17,7 @@ public class MyWebApplicationIntializer implements WebApplicationInitializer {
 		
 		// Create the 'root' Spring application context
 		rootContext.setConfigLocation("com.sirish.testspring.config");
-		rootContext.register(AppConfig.class);
+		rootContext.register(DispatcherConfig.class);
 		container.addListener(new ContextLoaderListener(rootContext));
 		
 		AnnotationConfigWebApplicationContext dispatcherContext = new AnnotationConfigWebApplicationContext();
